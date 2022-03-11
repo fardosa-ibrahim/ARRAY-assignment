@@ -1,6 +1,7 @@
 fun main(){
     list(arrayOf("halima","jane","james","habon"))
     country(arrayOf())
+    sum(arrayOf())
     nems(arrayOf("mimi","na","jihitaji"))
 }
 fun list(list: Array<String>) {
